@@ -132,30 +132,27 @@ Data was sourced from a Google Sheet and includes:
 ---
 
 ## 📸 Screenshots
+## 🚗 EV Performance Dashboard
 
-> Include these PNG images in your GitHub repo or presentation folder:
-## 📸 Overview Screenshot
-![Overview Dashboard](![Overview Dashboard](https://drive.google.com/uc?export=view&id=1kw5kmHljTRrCIXC1KsK7t-3IPC5fygnt)
-)
-## 📸 Brand Details Screenshot
-![Brand Details](![Brand Details](https://drive.google.com/uc?export=view&id=1yaVkKx2A6e5gWp0pB9EIXBGCvkht4YPr)
-)
+### 🧭 Overview
+![Overview Dashboard](https://drive.google.com/uc?export=view&id=1kw5kmHljTRrCIXC1KsK7t-3IPC5fygnt)
 
-## 📸 Battery Cell Analysis Screenshot
-![Battery Cell Analysis](![Battery Cell Analysis](https://drive.google.com/uc?export=view&id=1Cf0tXFRE4GdrJChMcpnFetGTQMm1Rgp3)
-)
+### 📊 Brand Details
+![Brand Details](https://drive.google.com/uc?export=view&id=1yaVkKx2A6e5gWp0pB9EIXBGCvkht4YPr)
 
-## 📸 EV Performance Analysis Screenshot
-![EV Performance](![EV Performance](https://drive.google.com/uc?export=view&id=1p1ukk8uHqwY-AKijdOCtfAH2OlqwN4Kj)
-)
+### 🔋 Battery Cell Analysis
+![Battery Cell Analysis](https://drive.google.com/uc?export=view&id=1Cf0tXFRE4GdrJChMcpnFetGTQMm1Rgp3)
+
+### ⚡ EV Performance Analysis
+![EV Performance](https://drive.google.com/uc?export=view&id=1p1ukk8uHqwY-AKijdOCtfAH2OlqwN4Kj)
+
 
 
 ---
 
 ## 📬 Contact
 
-**Created by:** *Your Name*  
-📧 *your.email@example.com*  
+**Created by:** *Mayur Lohar*  
 🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mayur-lohar-8ba87a1a7/)) | [GitHub]([https://github.com/](https://github.com/Mayur313))
 
 ---
