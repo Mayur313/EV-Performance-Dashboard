@@ -151,9 +151,9 @@ Data was sourced from a Google Sheet and includes:
 ---
 
 ## 📬 Contact
-
 **Created by:** *Mayur Lohar*  
-🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mayur-lohar-8ba87a1a7/)) | [GitHub]([https://github.com/](https://github.com/Mayur313))
+🔗 [LinkedIn](https://www.linkedin.com/in/mayur-lohar-8ba87a1a7/) | [GitHub](https://github.com/Mayur313)
+
 
 ---
 
